@@ -105,7 +105,7 @@ jupyter notebook notebooks/Denoising_Experiment.ipynb
 ## 🖋️ Author
 
 **Sabhya Malhotra**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sabhya-malhotra/) | [GitHub](https://github.com/sabhya100)
+🔗 [LinkedIn](https://www.linkedin.com/in/sabhyamalhotra) | [GitHub](https://github.com/sabhya100)
 
 
 🪪 License
