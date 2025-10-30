@@ -118,11 +118,6 @@ This project is open-source and available under the MIT License.
   3. Classic datasets: BSD68, DIV2K
 
 ---
+## RESULT IMAGE:
+<img width="1671" height="779" alt="picture" src="https://github.com/user-attachments/assets/92b9c8d5-37eb-4331-8f9c-0eb760b59666" />
 
-### ✅ Pro Tips Before Uploading:
-1. Replace all placeholder links (`your-username`, etc.).
-2. Add your **output image** in the `/results` folder.
-3. Rename your current script files accordingly (`model.py`, `train.py`, etc.).
-4. Copy this entire markdown into your **README.md** file directly on GitHub.
-
----
